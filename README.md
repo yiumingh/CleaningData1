@@ -22,8 +22,8 @@ I dropped the Y.test and col.names that got generated during data cleaning since
 
 The following code book describes the variables:
 
-Variable | Explanation | Units 
----------|-------------|------
+Variable | Explanation 
+---------|------------
 Subject | The test subject in question 
 Activity | The tested activity the measurement is on 
 X.test.tBodyAcc.mean...X | average of the mean of the raw body acceleration reading on the x axis
